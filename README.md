@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Abhiram Jampani
 
-**B.Tech CS student at IIIT Lucknow | Former Intern at NVIDIA (CUDA Assembler/Disassembler)**  
+**B.Tech CS student at IIIT Lucknow | Intern at NVIDIA (CUDA Assembler/Disassembler)**  
 I love working on systems, high-performance software, and developer tools.
 
 ### 🔧 What I worked on at NVIDIA
