@@ -1,24 +1,42 @@
 ## 👋 Hi, I'm Abhiram Jampani
 
-**B.Tech CS student at IIIT Lucknow | Intern at YugaByteDB(Core DB) | Intern at NVIDIA (CUDA Compilers)**  
-I love working on systems, high-performance software, and developer tools.
+🧠 Systems Engineer focused on Compilers, Databases, and High-Performance Software
+
+🎓 B.Tech CS @ IIIT Lucknow  
+🛠️ Intern @ YugaByteDB (Core Distributed Database Engine)  
+🚀 Former Intern @ NVIDIA (CUDA Compilers)
 
 ---
 
-### 🚀 What I Do
-- Systems Programming (C++, Golang, Python)
-- Backend Development (Node.js, Express, FastAPI)
-- Distributed Systems & Performance Engineering
-- AI/ML Integrations (OCR, GenAI pipelines)
+### 🧩 About Me
+
+I work on low-level systems where performance, correctness, and scalability are critical.
+
+My experience spans CUDA compiler internals, distributed database engine components, and systems-level C++ development. I enjoy working beneath abstractions — from storage/query paths to instruction-level code generation and build systems.
+
+At YugaByteDB, I contribute to core database engine components.  
+Previously at NVIDIA, I worked on the NVIDIA assembler and code generation parts of the CUDA compiler toolchain.
 
 ---
 
+### 🛠️ Areas I Work In
 
+- CUDA Compiler Internals (Assembler, Code Generation)
+- Distributed Databases & Storage Engines
+- Systems Programming in Modern C++
+- Performance Engineering, Debugging, and Build Systems
 
 ---
 
-### 🌐 Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/abhiram-jampani-323b37259/) •  
-[Portfolio](https://aj11.vercel.app/) •  
-[Email](mailto:abhiramjampani7@gmail.com)
+### ⚙️ Tech Stack
 
+C++ • CUDA Toolchain • NVIDIA Assembler • Golang • Python  
+Distributed Systems • Database Internals • Linux • Git
+
+---
+
+### 🌐 Connect with Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/abhiram-jampani-323b37259/  
+🌍 Portfolio: https://aj11.vercel.app/  
+📧 Email: abhiramjampani7@gmail.com
